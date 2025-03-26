@@ -6,7 +6,7 @@
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30"> **About Me**
 
-Hello, I’m Arghadeep Mandal, ❤️ Full Stack Dev and a Cloud enthusiast, with over 3 years of experience in Full Stack Development and CloudOps role in financial domains. A collaborative developer and engineer with experience and education in technology who thrives on discovery and accelerating performance.✨.
+Dedicated Senior Java Software Developer with 5.9 years of expertise in Software Engineering, specializing in high-performance platform architecture, processing over 500 million transactions daily for top Financial Groups. Proficient in Core Java, Spring Boot, and GCP CloudOps, highlighted by a 70% improvement in transaction processing through microservices development. Proven track record in reducing technical debt by 65% using Test Driven Development, coupled with a solid command of the Software Development Life Cycle (SDLC) principles and leveraging Generative AI to automate code generation, documentation, and test case creation, reducing overall delivery timelines by 35%. Recognized with multiple performance awards and rapid career advancement, with experience collaborating on user stories and working closely with product managers to drive feature discussions.
 
 ## 🛠️ **Languages & Tools:**
 
@@ -21,6 +21,7 @@ Hello, I’m Arghadeep Mandal, ❤️ Full Stack Dev and a Cloud enthusiast, wit
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-eeeeee?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-eeeeee?style=for-the-badge&logo=mysql)
 
+![GCP](https://img.shields.io/badge/-GCP-blue?style=for-the-badge)
 ![AWS](https://img.shields.io/badge/-AWS-%23e5d3f2?style=for-the-badge)
 ![AZURE](https://img.shields.io/badge/-AZURE-blue?style=for-the-badge)
 ![OPENSHIFT](https://img.shields.io/badge/-OPENSHIFT-red?style=for-the-badge)
@@ -35,5 +36,4 @@ Hello, I’m Arghadeep Mandal, ❤️ Full Stack Dev and a Cloud enthusiast, wit
 ## 📫 **Reach Me:**
 <a target="_blank" href="https://www.linkedin.com/in/arghadeep-mandal/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:arghadeep.sde@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="https://twitter.com/argDeepTSI"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 <br>
